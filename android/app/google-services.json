@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "427032600219",
+    "firebase_url": "https://mlkit-master-e018e.firebaseio.com",
+    "project_id": "mlkit-master-e018e",
+    "storage_bucket": "mlkit-master-e018e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427032600219:android:82dd061acc05c56178703e",
+        "android_client_info": {
+          "package_name": "com.finaltest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427032600219-1mcuqr6uipff9k15b202e8c4p91q8hnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5iShsTTQAEIEb1-mtHqHBrv4aQ50ehn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427032600219-1mcuqr6uipff9k15b202e8c4p91q8hnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
